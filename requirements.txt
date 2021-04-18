@@ -1,0 +1,2 @@
+colorama==0.4.3
+unittest-data-provider==1.0.1
